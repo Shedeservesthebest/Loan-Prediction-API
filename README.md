@@ -1,4 +1,4 @@
-# Fraud Detection Using Machine Learning
+# Loan Approval Prediction Using Machine Learning
 
 ## Project Overview
 This project focuses on detecting fraudulent activities using machine learning techniques. The primary objective is to build a predictive model that accurately identifies potential fraud cases based on various financial and transactional attributes.
