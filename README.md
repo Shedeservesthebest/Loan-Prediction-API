@@ -44,7 +44,7 @@ Ensure the following Python libraries are installed before running the project:
 - Implementing real-time fraud detection using streaming data.
 
 ## Author
-Ester
+Esther Osikoya
 
 ---
 This README provides a structured overview of the project. Let me know if you'd like any modifications!
